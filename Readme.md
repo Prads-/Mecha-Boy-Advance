@@ -1,4 +1,4 @@
-# 🎮 Pi-Based Retro Handheld Console
+# 🎮 Pi-Based GBA Handheld Console
 
 A fully open-source DIY GBA gaming handheld built around the **Raspberry Pi Zero 2 W**, featuring a custom PCB, 3D-printed enclosure, physical controls, battery power, and a lightweight launcher for running emulators such as mGBA.
 
